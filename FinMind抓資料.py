@@ -54,6 +54,7 @@ for s_id in stock_list:
     stock_data.to_excel(f"FINMIND資料/{s_id}.xlsx", index = False)
 
 print("test for git")
+print("practice fot sourcetree")
 # =============================================================================
 # df = api.taiwan_stock_per_pbr(
 #     stock_id='2330',
